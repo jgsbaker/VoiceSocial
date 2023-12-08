@@ -1,0 +1,54 @@
+body{
+  background-color: lavender;
+  color: darkgreen;
+  display: inherit;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+}
+.chats{
+  position: fixed;
+  right: 0%;
+  top: 10%
+}
+.profile{
+  background-color: lavender;
+  color: darkgreen;
+}
+.post{
+  display: block;
+  background-color: pink;
+  color: darkolivegreen;
+  left: 20%;
+  right: 20%;
+}
+.postInput{
+  display: block;
+  background-color: lavender;
+  color: darkgreen;
+}
+.comment{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: aquamarine;
+  color: slategray;
+}
+.links{
+  padding: 5px;
+  margin: 5px;
+}
+.message{
+  background-color: aliceblue;
+  color:blueviolet;
+}
+.container{
+  display: block;
+}
+.chatInput{
+  display: block;
+  background-color: lavender;
+  color: darkgreen;
+}
